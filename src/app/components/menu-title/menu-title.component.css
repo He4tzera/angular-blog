@@ -1,0 +1,18 @@
+
+.menuTitleContainer{
+  color: #fff;
+}
+
+
+.menuTitleContainer > h1{
+  margin: 15px 0px 15px 0px;
+  font-size: 8.438rem;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+
+.menuTitleContainer > hr{
+  margin-top: 0.938rem;
+}
