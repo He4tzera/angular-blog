@@ -1,0 +1,23 @@
+.containerContent{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.contentCover img{
+  border-radius: 5px;
+  width: 500px;
+  height: 300px;
+  min-width: 500px;
+}
+.contentDescription p{
+  color: rgb(150, 150, 150);
+  margin-top: 15px;
+}
+.contentDescription a {
+  display: flex;
+  justify-content: center;
+}
